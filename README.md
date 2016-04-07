@@ -1,3 +1,2 @@
 # hello-world
-hi
-Hi i like chineese food
+Hi i like chinese food
